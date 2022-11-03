@@ -1,7 +1,5 @@
 body {
-  text-align: centers;
-  display: flex;
-  flex-direction: column;
+  text-align: center;
 }
 
 
@@ -19,6 +17,7 @@ main {
 footer {
   border: 2px solid green;
   margin: 1em;
+  
 }
 nav {
   border: 2px solid purple;
